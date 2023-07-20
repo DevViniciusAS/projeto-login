@@ -97,7 +97,7 @@ div.campo > input {
     border-radius: 8px;
     padding: 4px;
     outline: none;
-    transform: translateY(-4px);
+    transform: translateY(-5px);
 }
 
 div.campo > input:focus-within {
